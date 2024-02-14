@@ -182,6 +182,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [FastCast](https://devforum.roblox.com/t/making-a-combat-game-with-ranged-weapons-fastcast-may-be-the-module-for-you/133474) — Emulate bullet physics and hit detection in pure Lua. No physics replication involved.
 
+- [Raycast Hitbox](https://devforum.roblox.com/t/raycast-hitbox-401-for-all-your-melee-needs/374482) — For all your melee needs.
+
 - [SecureCast](https://devforum.roblox.com/t/securecast-server-authoritative-projectiles-with-lag-compensation-multi-threading-and-more/2546164) — Server-authoritative projectiles with lag compensation, multi-threading and more.
 
 - [SmartBone](https://devforum.roblox.com/t/smartbone-2-simulated-physics-and-collision-solution-for-bones/2728928) — An optimized module for dynamically-simulated bones.
