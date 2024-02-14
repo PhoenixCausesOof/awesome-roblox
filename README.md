@@ -15,7 +15,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [LSPs](#lsps)
 - [Games](#games)
   - [Building](#building)
+  - [FPS](#fps)
   - [RPG](#rpg)
+  - [Tower defense](#tower-defense)
 - [Learning](#learning)
   - [Animating](#animating)
   - [Scripting](#scripting)
@@ -82,9 +84,17 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [Miner's Haven](https://devforum.roblox.com/t/miners-haven-open-sourced-everything-you-need-to-make-your-own-factory-game/350767) — The game that redefined the tycoon genre, released 100% for free under an Apache license. Learn directly from the source.
 
+### FPS
+
+- [Tetragon Fortress](https://devforum.roblox.com/t/tetragon-fortress-is-now-open-source-under-gpl3/2072337) — Open-source TF2 clone.
+
 ### RPG
 
-- [Vesteria](https://devforum.roblox.com/t/vesteria-open-source/842436) — Extensive fantasy MMORPG.
+- [Vesteria](https://devforum.roblox.com/t/vesteria-open-source/842436) — Open-sourced fantasy MMORPG.
+
+### Tower defense
+
+- [MechaCubes](https://www.roblox.com/games/868962670/MechaCubes-Uncopylocked) — A Bloons inspired tower defense game where you and your friends fight off deadly cubes with a variety of defensive units called towers.
 
 ## Learning
 
@@ -100,21 +110,25 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [How To Make a Raycasting Gun](https://devforum.roblox.com/t/how-to-make-a-raycasting-gun/723716)
 
+- [Roblox Code Samples](https://create.roblox.com/store/models?creatorName=Roblox%20Code%20Samples) — A couple of official Roblox code samples.
+
 - [Making a Proper #scripting-support Topic](https://devforum.roblox.com/t/guide-to-making-a-proper-scripting-support-topic/2788762)
 
 - [Promises and Why You Should Use Them](https://devforum.roblox.com/t/promises-and-why-you-should-use-them/350825)
 
 - [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) — A must-read for every scripter. Keeping your scripts consistent, readable and future-proof.
 
-- [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838)
+- [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
 
-- [Writing Good Code and Speeding Up Everything](https://devforum.roblox.com/t/how-to-write-great-code-and-speed-up-everything/2666661)
+- [How to write great code and speed up everything](https://devforum.roblox.com/t/how-to-write-great-code-and-speed-up-everything/2666661)
 
 ### Security
 
 - [Exploiting Explained](https://devforum.roblox.com/t/exploiting-explained/170977)
 
 - [Keeping Your Game Secure](https://devforum.roblox.com/t/keeping-your-game-secure-part-1-protecting-remotes/2788472)
+
+- [Security Tactics and Cheat Mitigation](https://create.roblox.com/docs/en-us/scripting/security/security-tactics)
 
 ## Libraries
 
@@ -127,6 +141,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ### DataStore
 
 - [DataKeep](https://devforum.roblox.com/t/datakeep-a-promise-based-auto-saving-datastore-module/2656200) — A promise-based, auto-saving DataStore module
+
+- [GreedyDataService](https://devforum.roblox.com/t/greedydataservice-the-simplest-datastore-solution-that-is-session-locked-and-automated/2659461) — A datastore solution that simplifies the player data management workflow
 
 - [ProfileService](https://devforum.roblox.com/t/save-your-player-data-with-profileservice-datastore-module/667805) — ProfileService is a stand-alone ModuleScript that specializes in loading and auto-saving DataStore profiles.
 
