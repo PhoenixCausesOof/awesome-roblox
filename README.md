@@ -29,6 +29,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Machine learning](#machine-learning)
   - [Pathfinding](#pathfinding)
   - [Physics](#physics)
+  - [Physics emulation](#physics-emulation)
   - [Sandboxes](#sandboxes)
 - [Plugins](#plugins)
   - [Scripters](#scripters)
@@ -174,6 +175,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ### Physics
 
 - [BezierPath](https://devforum.roblox.com/t/bezierpath-an-easy-to-use-and-optimized-spline-path-module-for-td-games-and-general-paths/2742194) — An easy-to-use Bézier spline module, designed for Tower Defense–styled games. Optimized for large scale use.
+
+### Physics emulation
 
 - [ClientCast](https://devforum.roblox.com/t/clientcast-a-client-based-idiosyncratic-hitbox-system/895217) — A client-based, idiosyncratic hitbox system designed with user experience in mind.
 
