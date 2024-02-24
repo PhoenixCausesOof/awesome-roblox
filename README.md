@@ -157,6 +157,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [CanaryEngine](https://devforum.roblox.com/t/canaryengine-6-a-lightweight-blazingly-fast-framework/2189347) — A lightweight & blazingly fast framework.
 
+- [Cyclone](https://devforum.roblox.com/t/cyclone-an-open-source-customizable-framework-with-included-utilities/2448284) — An open-source customizable framework with included utilities.
+
 - [Eden](https://devforum.roblox.com/t/the-eden-framework-powerful-lightweight-flexible/2702261) — A powerful, lightweight and flexible framework.
 
 ### GUI
