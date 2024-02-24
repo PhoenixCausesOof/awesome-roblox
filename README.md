@@ -21,6 +21,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Learning](#learning)
   - [Animating](#animating)
   - [Scripting](#scripting)
+  - [Tutorials](#tutorials)
   - [Security](#security)
 - [Libraries](#libraries)
   - [Camera](#camera)
@@ -108,15 +109,17 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Scripting
 
-- [How To Make a Raycasting Gun](https://devforum.roblox.com/t/how-to-make-a-raycasting-gun/723716)
+- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) **OFFICIAL** — A must-read for every scripter. Keeping your scripts consistent, readable and future-proof.
 
-- [Roblox Code Samples](https://create.roblox.com/store/models?creatorName=Roblox%20Code%20Samples) — A couple of official Roblox code samples.
+- [Roblox Code Samples](https://create.roblox.com/docs/en-us/samples) **OFFICIAL** — Samples showing you how to carry out common scripting tasks in Roblox.
+
+#### Tutorials
+
+- [How To Make a Raycasting Gun](https://devforum.roblox.com/t/how-to-make-a-raycasting-gun/723716)
 
 - [Making a Proper #scripting-support Topic](https://devforum.roblox.com/t/guide-to-making-a-proper-scripting-support-topic/2788762)
 
 - [Promises and Why You Should Use Them](https://devforum.roblox.com/t/promises-and-why-you-should-use-them/350825)
-
-- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) — A must-read for every scripter. Keeping your scripts consistent, readable and future-proof.
 
 - [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
 
@@ -131,6 +134,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Security Tactics and Cheat Mitigation](https://create.roblox.com/docs/en-us/scripting/security/security-tactics)
 
 ## Libraries
+
+- [Scripting Libraries](https://create.roblox.com/docs/en-us/resources/scripting-libraries) **OFFICIAL** — Luau Libraries made and developed by Roblox engineers.
 
 ### Camera
 
