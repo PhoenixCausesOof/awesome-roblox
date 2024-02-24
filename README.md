@@ -173,7 +173,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Networking
 
-- [BridgeNet v2](https://devforum.roblox.com/t/bridgenet2-v100-a-blazing-fast-networking-library-for-roblox/2189165) — A blazingly fast networking library for Roblox.
+- [BridgeNet](https://devforum.roblox.com/t/bridgenet2-v100-a-blazing-fast-networking-library-for-roblox/2189165) — A blazingly fast networking library for Roblox.
 
 - [ByteNet](https://devforum.roblox.com/t/bytenet-an-advanced-modern-networking-library-for-roblox/2733365) — An incredibly performant networking library which runs purely on [buffers](https://devforum.roblox.com/t/introducing-luau-buffer-type-beta/2724894), allowing you to specify the exact data types within the payload.
 
