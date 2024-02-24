@@ -109,9 +109,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Scripting
 
-- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) **OFFICIAL** — A must-read for every scripter. Keeping your scripts consistent, readable and future-proof.
-
 - [Roblox Code Samples](https://create.roblox.com/docs/en-us/samples) **OFFICIAL** — Samples showing you how to carry out common scripting tasks in Roblox.
+
+- [Roblox Lua Style Guide](https://roblox.github.io/lua-style-guide/) **OFFICIAL** — A must-read for every scripter. Keeping your scripts consistent, readable and future-proof.
 
 #### Tutorials
 
@@ -121,9 +121,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [Promises and Why You Should Use Them](https://devforum.roblox.com/t/promises-and-why-you-should-use-them/350825)
 
-- [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
-
 - [How to write great code and speed up everything](https://devforum.roblox.com/t/how-to-write-great-code-and-speed-up-everything/2666661)
+
+- [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
 
 ### Security
 
