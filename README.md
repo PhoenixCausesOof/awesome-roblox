@@ -79,6 +79,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Games
 
+### Platformer
+
+- [Sip N' Munch](https://devforum.roblox.com/t/sip-n-munch-an-open-source-platformer/2304088) — Open-source 3D platformer
+
 ### Building
 
 - [Infinite Mining Kit](https://create.roblox.com/marketplace/asset/4920625917/) — Everything you need to make your own infinite mining game based on the popular game Azure Mines.
