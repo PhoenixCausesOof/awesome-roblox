@@ -16,6 +16,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Games](#games)
   - [Building](#building)
   - [FPS](#fps)
+  - [Platformer](#platformer)
   - [RPG](#rpg)
   - [Tower defense](#tower-defense)
 - [Learning](#learning)
@@ -79,10 +80,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Games
 
-### Platformer
-
-- [Sip N' Munch](https://devforum.roblox.com/t/sip-n-munch-an-open-source-platformer/2304088) — Open-source 3D platformer
-
 ### Building
 
 - [Infinite Mining Kit](https://create.roblox.com/marketplace/asset/4920625917/) — Everything you need to make your own infinite mining game based on the popular game Azure Mines.
@@ -92,6 +89,10 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ### FPS
 
 - [Tetragon Fortress](https://devforum.roblox.com/t/tetragon-fortress-is-now-open-source-under-gpl3/2072337) — Open-source TF2 clone.
+
+### Platformer
+
+- [Sip N' Munch](https://devforum.roblox.com/t/sip-n-munch-an-open-source-platformer/2304088) — Open-source 3D platformer
 
 ### RPG
 
@@ -128,6 +129,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [How to write great code and speed up everything](https://devforum.roblox.com/t/how-to-write-great-code-and-speed-up-everything/2666661)
 
 - [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
+
+- [Typechecking: From Zero to Master](https://devforum.roblox.com/t/typechecking-from-zero-to-master-tutorial/2844128) — Introduction to Luau type-checking and related concepts.
 
 ### Security
 
