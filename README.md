@@ -162,7 +162,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Frameworks
 
-- [Lumine](https://devforum.roblox.com/t/canaryengine-6-a-lightweight-blazingly-fast-framework/2189347) — A lightweight & blazingly fast framework.
+- [Lumine](https://devforum.roblox.com/t/canaryengine-6-a-lightweight-blazingly-fast-framework/2189347) — A Lightning Fast & Lightweight Game Framework
 
 - [Cyclone](https://devforum.roblox.com/t/cyclone-an-open-source-customizable-framework-with-included-utilities/2448284) — An open-source customizable framework with included utilities.
 
@@ -176,9 +176,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [React-lua](https://jsdotlua.github.io/react-lua/) — A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
 
-- [TopbarPlus](https://devforum.roblox.com/t/topbarplus-v291-construct-intuitive-topbar-icons-customise-them-with-themes-dropdowns-captions-labels-and-much-more/1017485) — Construct intuitive top bar icons; customise them with themes, dropdowns, captions, labels and much more.
+- [Re:Notify](https://devforum.roblox.com/t/renotify-simple-clean-notifications-framework/2749009) - Simple & Clean Notifications Framework
 
-- [UIShelf](https://devforum.roblox.com/t/uishelf-create-modern-intuitive-topbar-icons/2651308) — Create modern and intuitive top bar icons.
+- [TopbarPlus](https://devforum.roblox.com/t/topbarplus-v291-construct-intuitive-topbar-icons-customise-them-with-themes-dropdowns-captions-labels-and-much-more/1017485) — Construct intuitive top bar icons; customise them with themes, dropdowns, captions, labels and much more.
 
 ### Networking
 
@@ -235,10 +235,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ### Scripters
 
 - [InCommand](https://devforum.roblox.com/t/incommand-versatile-adaptable-command-execution/558996) **PAID** — Versatile, adaptable command bar replacement, designed with power users in mind.
-
-### Composers
-
-- [KasCode SFX Editor Pro](https://devforum.roblox.com/t/kascode-sfx-editor-pro-plugin-easily-enhance-any-audio/1929869) **PAID** — An easy-to-use audio enhancer.
 
 ### Builders
 
