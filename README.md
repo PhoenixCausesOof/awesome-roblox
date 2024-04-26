@@ -53,6 +53,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [Rojo](https://rojo.space/) — Project management tool designed to get professional resources in the hands of Roblox developers.
 
+- [Pixelfix](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802) — Remove the black edges on scaled images
+
 ### Bootstrappers
 
 - [Bloxstrap](https://devforum.roblox.com/t/bloxstrap-an-open-source-feature-packed-alternative-bootstrapper-for-roblox/2217489) — An open-source, feature-packed alternative bootstrapper for Roblox (Windows).
