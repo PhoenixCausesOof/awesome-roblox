@@ -37,7 +37,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   - [Sandboxes](#sandboxes)
 - [Plugins](#plugins)
   - [Scripters](#scripters)
-  - [Composers](#composers)
   - [Builders](#builders)
   - [Artists](#artists)
 - [Resources](#resources)
