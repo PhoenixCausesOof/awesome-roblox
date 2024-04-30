@@ -53,8 +53,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 - [Rojo](https://rojo.space/) — Project management tool designed to get professional resources in the hands of Roblox developers.
 
-- [Pixelfix](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802) — Remove the black edges on scaled images
-
 ### Bootstrappers
 
 - [Bloxstrap](https://devforum.roblox.com/t/bloxstrap-an-open-source-feature-packed-alternative-bootstrapper-for-roblox/2217489) — An open-source, feature-packed alternative bootstrapper for Roblox (Windows).
@@ -128,6 +126,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Promises and Why You Should Use Them](https://devforum.roblox.com/t/promises-and-why-you-should-use-them/350825)
 
 - [How to write great code and speed up everything](https://devforum.roblox.com/t/how-to-write-great-code-and-speed-up-everything/2666661)
+
+- [Remove black edges of scaled images](https://medium.com/roblox-development/fixing-images-in-roblox-ui-to-look-good-2e0a7880b1ec) — Learn to work around the "black outlines" artefact of scaled images.
 
 - [Scripting Basics](https://devforum.roblox.com/t/scripting-basics-beginner-guide-to-lua-and-roblox/359838) — A beginner guide to Lua(u) and Roblox.
 
